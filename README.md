@@ -4,7 +4,7 @@
 
   ###  GitHub Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=misliaddict&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zavzagali&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 
 <details>
 
